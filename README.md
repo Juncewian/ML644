@@ -19,5 +19,6 @@ Features of the ML644 are:
 * A Z80 PIO to do things like select baud rates and floppy drives as well as enable or disable the EPROMs.
 * A WD1771 floppy controller to handle up to four 8" single-sided single-density drives.
 * Up to four 2716 EPROMs.
+* Four expansion connectors. The only expansion card I've ever seen in one of these was a double-density floppy controller in a MicrOmega system.
 
 There is also a related system, called Pixie, that runs at 2MHz and has only 32k bytes of RAM.
